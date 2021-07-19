@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAUIWPj4+PAgDy/19VVVWPUP9VVf//X49Q/9Vd//9fDyD/9V3//18PIP/VXS//X48g/9VdIiJSjwD19V0v/18PAFBVVVVVVQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAUIWPj4+PAgDy/19VVVWPUP9VVf//X49Q/9Vd//9fDyD/9V3//18PIP/VXS//X48g/9VdIiJSjwD19V0v/18PAFBVVVVVVQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Temporary asset0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
