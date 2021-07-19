@@ -9,7 +9,7 @@ controller.up.onEvent(ControllerButtonEvent.Pressed, function () {
     }
 })
 controller.B.onEvent(ControllerButtonEvent.Pressed, function () {
-    if (pegou == false && 0 == 0) {
+    if (pegou == false && tiles.getTileLocation(PERSONA, PERSONA) == 0) {
         game.setDialogTextColor(randint(1, 13))
         game.setDialogCursor(img`
             9999.9999.9999.9999.
